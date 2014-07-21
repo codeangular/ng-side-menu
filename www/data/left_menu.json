@@ -1,0 +1,23 @@
+[
+	{
+		"url":"first/",
+		"title":"First",
+		"class":"firstActive",
+		"src":"img/icon-paper.png",
+		"id":1
+	},
+	{ 
+		"url":"second/",
+		"title":"Second",
+		"class":"secondActive",
+		"src":"img/icon-paper.png",
+		"id":2		
+	},
+	{
+		"url":"third/",
+		"title":"Third",
+		"class":"thirdActive",
+		"src":"img/icon-paper.png",
+		"id":3
+	}
+]
