@@ -20,8 +20,6 @@ For more information regarding other platforms checkout this Cordova Platform Gu
 ## Screenshots
 ![Page 1](www/img/preview1.png)
 
-
-![Side Menu](www/img/preview2.png)
-
+![Side Menu](www/img/preview2.png) 
 
 ![Page 2](www/img/preview3.png)
